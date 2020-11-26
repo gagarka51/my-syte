@@ -68,7 +68,7 @@ body {
 }
 
 .intro {
-  margin: 0 0 120px;
+  margin: 0 0 100px;
 }
 
 .subheading {
@@ -189,4 +189,16 @@ body {
 }
 .button:hover {
   box-shadow: 0 0 10px lightgoldenrodyellow;
+}
+.main-menu {
+  
+}
+.main-menu  li {
+  list-style: none;
+  display: inline;
+  float: left;
+}
+.poka {
+  text-align: center;
+  font-size: 25px;
 }
